@@ -1,4 +1,3 @@
-package com.ysavchuk;
 /*
 Write a Java program to add two binary numbers.
 Input Data:

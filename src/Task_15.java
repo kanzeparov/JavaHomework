@@ -1,7 +1,4 @@
-package com.ysavchuk;
-
 import java.util.Scanner;
-
 /*
 Write a Java program to swap two variables.
  */

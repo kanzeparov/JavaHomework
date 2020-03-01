@@ -1,5 +1,3 @@
-package com.ysavchuk;
-
 import java.util.Scanner;
 /*
 Write a Java program that takes two numbers as input and display the product of two numbers.

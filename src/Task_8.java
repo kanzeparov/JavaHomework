@@ -1,5 +1,3 @@
-package com.ysavchuk;
-
 /*
 Write a Java program to display the following pattern.
 Sample Pattern :

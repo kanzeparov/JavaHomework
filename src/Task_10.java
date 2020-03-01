@@ -1,5 +1,3 @@
-package com.ysavchuk;
-
 /*
 Write a Java program to compute a specified formula.
 Specified Formula :

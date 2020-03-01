@@ -1,5 +1,3 @@
-package com.ysavchuk;
-
 /*
 Write a Java program to compute the specified expressions and print the output.
 Test Data:

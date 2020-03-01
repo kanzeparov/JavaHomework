@@ -1,4 +1,3 @@
-package com.ysavchuk;
 /*
 Write a Java program to print a face.
 Expected Output
